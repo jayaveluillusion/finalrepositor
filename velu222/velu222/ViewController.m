@@ -20,20 +20,15 @@
     NSLog(@"Text Changed Here!!!!");
     NSLog(@"Text Changed Here!!!!");
     NSLog(@"Text Changed Here!!!!");
-    
     NSLog(@"Text Changed Here!!!!");
     NSLog(@"Text Changed Here!!!!");
     NSLog(@"Text Changed Here!!!!");
     NSLog(@"abcdef!!!!");
     
-    
-    NSLog(@"Text Changed Here!!!!");
-    
-    NSLog(@"Text Changed Here!!!!");
     NSLog(@"jayavelu!!!");
-    
     NSLog(@"dasdasdadasdasdadas");
-
+    NSLog(@"Text Changed Here!!!!");
+    NSLog(@"Text Changed Here!!!!");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
