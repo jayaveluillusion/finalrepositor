@@ -23,11 +23,7 @@
     
     NSLog(@"Text Changed Here!!!!");
     NSLog(@"Text Changed Here!!!!");
-    NSLog(@"Text Changed Here!!!!");
-    NSLog(@"Text Changed Here!!!!");
-    
-    NSLog(@"Text Changed Here!!!!");
-    NSLog(@"Text Changed Here!!!!");
+
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
